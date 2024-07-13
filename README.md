@@ -29,7 +29,7 @@ It predicts the moment boundary specified by textual queries from an hour-long v
 RGNet unifies retrieval and moment detection into a single network and processes long videos into multiple granular levels, e.g., clips and frames. 
 
 [//]: # (![framework]&#40;images/main.png&#41;)
-<img src="images/main.png" alt="drawing" width="1000"/>
+<img src="main.png" alt="drawing" width="1000"/>
 
 ---
 

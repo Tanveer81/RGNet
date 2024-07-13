@@ -10,7 +10,7 @@ datasets*
 weights*
 vis_output*
 
-*.png
+
 *.json
 *.diff
 *.jpg
