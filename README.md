@@ -83,7 +83,7 @@ bash rgnet/scripts/inference_mad.sh CHECKPOINT_PATH
 A Comprehensive Evaluation of RGNEt's Performance on Ego4D-NLQ Datasets.
 
 [//]: # (![0]&#40;images/qual.png&#41; )
-<img src="images/qual.png" alt="drawing" width="1000"/>
+<img src="qual.png" alt="drawing" width="1000"/>
 
 ---
 
