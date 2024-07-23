@@ -5,7 +5,7 @@ Tanveer Hannan Md Mohaiminul Islam Thomas Seidl Gedas Bertasius
 
 Accepted by **ECCV 2024**
 
-[[Website](https://sites.google.com/view/rgnet)] [[Paper](https://arxiv.org/abs/2402.13250)]
+[[Website](https://sites.google.com/view/rgnet)] [[Paper](https://arxiv.org/pdf/2312.06729)]
 
 [//]: # (Official PyTorch implementation of the paper "RGNet: A Unified Clip Retrieval and Grounding Network for Long Videos".)
 
