@@ -32,10 +32,9 @@ eval_epoch_interval=1
 start_epoch_for_adapter=-1
 topk_window=20
 dset_name=ego4d
-retrieval_loss_coef=0
-lr=.00001
-adapter_module=none
-exp_id=finetune_ego4d
+retrieval_loss_coef=1
+adapter_module=linear
+exp_id=train_ego4d
 
 CUDA_VISIBLE_DEVICES=${device_id} PYTHONPATH=$PYTHONPATH:. python cone/train.py \
 --lr_drop 120 \
@@ -76,5 +75,4 @@ CUDA_VISIBLE_DEVICES=${device_id} PYTHONPATH=$PYTHONPATH:. python cone/train.py 
 --gumbel_3 \
 --dabdetr \
 --gumbel_single_proj \
---no_adapter_loss \
 ${@:6}
