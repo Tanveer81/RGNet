@@ -98,7 +98,7 @@ We are grateful for the following awesome projects our RGNet arising from:
 * [MAD](https://github.com/Soldelli/MAD): A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions
 * [Ego-4D](https://github.com/EGO4D/episodic-memory): Ego4D Episodic Memory Benchmark
 
-If you're using VTimeLLM in your research or applications, please cite using this BibTeX:
+If you're using RGNet in your research or applications, please cite using this BibTeX:
 ```bibtex
 @article{hannan2023rgnet,
   title={RGNet: A Unified Retrieval and Grounding Network for Long Videos},
