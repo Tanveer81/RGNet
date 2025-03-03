@@ -90,7 +90,7 @@ A Comprehensive Evaluation of RGNEt's Performance on Ego4D-NLQ Datasets.
 
 ## Acknowledgements :pray:
 
-We are grateful for the following awesome projects our VTimeLLM arising from:
+We are grateful for the following awesome projects our RGNet arising from:
 
 * [Moment-DETR](https://github.com/jayleicn/moment_detr): Detecting Moments and Highlights in Videos via Natural Language Queries
 * [QD-DETR](https://github.com/wjun0830/QD-DETR): Query-Dependent Video Representation for Moment Retrieval and Highlight Detection 
